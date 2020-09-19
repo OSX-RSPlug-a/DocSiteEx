@@ -25,5 +25,5 @@ You can initialize also with:
   
       chmod +x main            // this main It's a binary that was compiled
   
-      nohup main </dev/null >nohup.out 2>nohup.err &      // to execute in background the script or program 
+      nohup ./main </dev/null >nohup.out 2>nohup.err &      // to execute in background the script or program 
   
