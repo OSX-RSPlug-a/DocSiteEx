@@ -23,7 +23,7 @@ You can initialize also with:
 
       go build main.go
   
-      chmod +x main            // this main its binary that was compiled
+      chmod +x main            // this main It's a binary that was compiled
   
       nohup main </dev/null >nohup.out 2>nohup.err &      // to execute in background the script or program 
   
