@@ -11,11 +11,17 @@ Dependencies:
 Install dependencies:
 
       go get github.com/gofiber/fiber
+      
+      pip install mkdocs
   
       pip install mkdocs-material
 
 
-Inicializar o projeto:
+Init the project:
+
+      mkdocs new my-project
+      
+      mkdocs build
 
       go run  main.go
 
