@@ -11,8 +11,6 @@ Dependencies:
 Install dependencies:
 
       go get github.com/gofiber/fiber
-      
-      pip install mkdocs
   
       pip install mkdocs-material
 
